@@ -23,13 +23,13 @@ This project explores a diverse array of deep learning models for sequential sen
 
 ## Notebooks
 
-- [NaiveBiase Model](link-to-notebook)
-- [Conv1D Model](link-to-notebook)
-- [Pretrained Token Embedding Model](link-to-notebook)
-- [Conv1D Model with Character Level Embedding](link-to-notebook)
-- [Model with Both Token and Character Level Embedding](link-to-notebook)
-- [Model with Token, Character, and Position Level Embedding](link-to-notebook) ([Paper Reference](https://arxiv.org/pdf/1612.05251.pdf))
-- [Model with BERT Embedding](link-to-notebook)
+- [NaiveBiase Model](https://github.com/Shubhankar9934/PubMed-200k-RCT-Sequential-Sentence-Classification-With-SkimLit/tree/main/Model%20Notebooks)
+- [Conv1D Model](https://github.com/Shubhankar9934/PubMed-200k-RCT-Sequential-Sentence-Classification-With-SkimLit/tree/main/Model%20Notebooks)
+- [Pretrained Token Embedding Model](https://github.com/Shubhankar9934/PubMed-200k-RCT-Sequential-Sentence-Classification-With-SkimLit/tree/main/Model%20Notebooks)
+- [Conv1D Model with Character Level Embedding](https://github.com/Shubhankar9934/PubMed-200k-RCT-Sequential-Sentence-Classification-With-SkimLit/tree/main/Model%20Notebooks)
+- [Model with Both Token and Character Level Embedding](https://github.com/Shubhankar9934/PubMed-200k-RCT-Sequential-Sentence-Classification-With-SkimLit/tree/main/Model%20Notebooks)
+- [Model with Token, Character, and Position Level Embedding](https://github.com/Shubhankar9934/PubMed-200k-RCT-Sequential-Sentence-Classification-With-SkimLit/tree/main/Model%20Notebooks) ([Paper Reference](https://arxiv.org/pdf/1612.05251.pdf))
+- [Model with BERT Embedding](https://github.com/Shubhankar9934/PubMed-200k-RCT-Sequential-Sentence-Classification-With-SkimLit/tree/main/Model%20Notebooks)
 
 ## Requirements
 
